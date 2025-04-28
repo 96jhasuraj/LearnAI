@@ -3,8 +3,11 @@ will be reading some books , watching some videos &amp; implementing some papers
 
 Would be recording what i did throughtout to come back later
 ***
-Week 1 : going the deeplearning for coders book & videos
-* video 1,2 & related chapters in book
+Week 1 : going through the "deeplearning for coders" book & videos
+* book chapter 4 
+***
+Week 1 : going through the "deeplearning for coders" book & videos
+* video 1,2,3 & related chapters in book
 * basically intro classes + basic deployment . @suraj checkout out Quarto & jenkyll later this week
 * https://96jhasuraj.github.io/catsvsdogs/  => customary hello world :P
 ***
