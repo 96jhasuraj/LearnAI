@@ -5,7 +5,7 @@ Would be recording what i did throughtout to come back later
 ***
 TODO:
 1. Quarto for blogging
-2. pytorch's tutorial / documentation
+~~2. pytorch's tutorial / documentation~~
 3. hugging face tutorial / documentation
 ***
 Week 2 : going through the "deeplearning for coders" book & videos
