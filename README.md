@@ -9,7 +9,7 @@ TODO:
 3. hugging face tutorial / documentation
 ***
 Week 2 : going through the "deeplearning for coders" book & videos
-* book chapter 4 , video 4,5
+* book chapter 4 , video 4,5,6
 * book chapter 8
 ***
 Week 1 : going through the "deeplearning for coders" book & videos
