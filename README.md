@@ -7,6 +7,7 @@ TODO:
 1. Quarto for blogging
 ~~2. pytorch's tutorial / documentation~~
 3. hugging face tutorial / documentation
+4. get familiar with Kaggle , try titanic competition
 ***
 Week 2 : going through the "deeplearning for coders" book & videos
 * book chapter 4 , video 4,5,6
