@@ -14,7 +14,7 @@ Week 4 :
 1. going through the "deeplearning for coders" part2
 2. start the book deeplearning for coders
 ***
-Week 1-33 : going through the "deeplearning for coders" part1 + pytorch official tutorials
+Week 1-3 : going through the "deeplearning for coders" part1 + pytorch official tutorials
 * DL for coders part1
 * basically intro classes + basic deployment . @suraj checkout out Quarto & jenkyll later this week
 * https://96jhasuraj.github.io/catsvsdogs/  => customary hello world :P
