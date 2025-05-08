@@ -10,12 +10,12 @@ TODO:
 ~~4. get familiar with Kaggle , try titanic competition~~
 5. Lesson 6 & 7 -> road to TOP
 ***
-Week 2 : going through the "deeplearning for coders" book & videos
-* book chapter 4 , video 4,5,6
-* book chapter 8
+Week 4 : 
+1. going through the "deeplearning for coders" part2
+2. start the book deeplearning for coders
 ***
-Week 1 : going through the "deeplearning for coders" book & videos
-* video 1,2,3 & related chapters in book
+Week 1-33 : going through the "deeplearning for coders" part1 + pytorch official tutorials
+* DL for coders part1
 * basically intro classes + basic deployment . @suraj checkout out Quarto & jenkyll later this week
 * https://96jhasuraj.github.io/catsvsdogs/  => customary hello world :P
 ***
