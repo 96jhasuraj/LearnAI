@@ -17,8 +17,8 @@ TODO :
 4. DL for coders Lesson 6 & 7 : Road to TOP -> start participating in Kaggle competitions
 ***
 Current Week Plan :
-PyTorch Pocket Reference
-DL for coders part 2 -> 3 videos
+* PyTorch Pocket Reference
+* DL for coders part 2 -> 3 videos
 ***
 Week 1-3 : going through the "deeplearning for coders" part1 + pytorch official tutorials
 * DL for coders part1
